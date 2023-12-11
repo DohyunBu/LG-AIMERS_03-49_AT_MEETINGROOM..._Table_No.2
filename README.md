@@ -1,4 +1,8 @@
 # LG_AIMERS
+<p align='center'>
+    <img src='https://www.skku.edu/_attach/image/2023/11/hWTmeKRGjWgOhXarGUfW.png' width='250' height='350'>
+</p>
+
 ## 팀원
 - [김상희](https://github.com/cecksh) (성균관대학교 시스템경영공학과)
 - [변유정](https://github.com/HBHBYJYJ) (성균관대학교 시스템경영공학과 정보과학연구실)
