@@ -1,6 +1,6 @@
 # LG_AIMERS
 <p align='center'>
-    <img src='https://www.skku.edu/_attach/image/2023/11/hWTmeKRGjWgOhXarGUfW.png' width='250' height='350'>
+    <img src='poster.png' width='250' height='350'>
 </p>
 
 ## 팀원
