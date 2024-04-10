@@ -1,9 +1,9 @@
-# LG_AIMERS
+# LG AIMERS 4기
 <p align='center'>
     <img src='poster.png' width='250' height='350'>
 </p>
 
-## LG Aimers 4기 오프라인 해커톤
+## MQL 데이터 기반 B2B 영업기회 창출 예측 모델 개
 [PDF 발표자료_3시49분_미팅룸에서...(Table_No.2)](LG_Aimers_4기_팀_3시49분_미팅룸에서...(Table_No.2).pdf)
 ![발표자료_3시49분_미팅룸에서...(Table_No.2)_페이지](https://github.com/DohyunBu/LG-AIMERS_03-49_at_meetingroom..._Table_No.2/raw/main/발표자료/LG_Aimers_4기_팀_3시49분_미팅룸에서...(Table_No.2)_페이지_01.jpg)
 ![발표자료_3시49분_미팅룸에서...(Table_No.2)_페이지](https://github.com/DohyunBu/LG-AIMERS_03-49_at_meetingroom..._Table_No.2/raw/main/발표자료/LG_Aimers_4기_팀_3시49분_미팅룸에서...(Table_No.2)_페이지_02.jpg)
