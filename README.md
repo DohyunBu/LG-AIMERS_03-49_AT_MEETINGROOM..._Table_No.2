@@ -21,6 +21,7 @@
 ![발표자료_3시49분_미팅룸에서...(Table_No.2)_페이지](https://github.com/DohyunBu/LG-AIMERS_03-49_at_meetingroom..._Table_No.2/발표자료/LG_Aimers_4기_팀_3시49분_미팅룸에서...(Table_No.2)_페이지_14.jpg)
 ![발표자료_3시49분_미팅룸에서...(Table_No.2)_페이지](https://github.com/DohyunBu/LG-AIMERS_03-49_at_meetingroom..._Table_No.2/발표자료/LG_Aimers_4기_팀_3시49분_미팅룸에서...(Table_No.2)_페이지_15.jpg)
 
+
 ## 팀원
 - [김상희](https://github.com/cecksh) (성균관대학교 시스템경영공학과 품질공학연구실)
 - [변유정](https://github.com/HBHBYJYJ) (성균관대학교 시스템경영공학과 정보과학연구실)
